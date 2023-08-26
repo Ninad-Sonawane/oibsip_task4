@@ -1,4 +1,4 @@
-# Online_Examination_task_4_OasisInfobyte_Internship_
+# Online Examination task 4 OasisInfobyte Internship 
 
 # * Online Examination *
 
