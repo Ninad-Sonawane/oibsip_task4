@@ -1,8 +1,8 @@
 # Online_Examination_task_4_OasisInfobyte_Internship_
 
-* Online examination *
+# * Online Examination *
 
-# In this Project there are following functionalities.
+In this Project there are following functionalities.
 
 1. Login 
 2. Update profile and password 
