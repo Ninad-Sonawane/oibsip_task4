@@ -7,7 +7,7 @@ In this Project there are following functionalities.
 4. Timer and auto-submit 
 5. Closing session and Logout
 
-Project Code Path -  Online_Examination_task_4_OasisInfobyte_Internship_/src/OnlineMCQExam
+Project Code Path -  oibsip_task4/src/OnlineMCQExam
 
 
  
